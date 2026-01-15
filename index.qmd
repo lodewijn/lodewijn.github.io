@@ -3,5 +3,8 @@ title: "Lodewijn"
 format: html
 ---
 
-# Hello
+## Hello...
 
+... and welcome to my developer website! Unfortunately I do not have a lot of fun information about myself that I can share here, but make sure to take a look at my two sons in the next tab!
+
+If you want to know more, [here](https://github.com/lodewijn/portfolio) you can find my portfolio!
